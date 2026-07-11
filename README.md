@@ -1,20 +1,27 @@
-¡Hola! Soy  Felipe Ramírez Noguera 
+¡Hola! Soy Javier Felipe Ramírez Noguera
+
 Tecnólogo en Análisis y Desarrollo de Software & Especialista en Fundamentos de IA
 
-Me apasiona transformar problemas complejos en soluciones digitales funcionales. Como Tecnólogo del SENA, combino habilidades técnicas en desarrollo con un enfoque innovador en Inteligencia Artificial Generativa.
+Transformo necesidades operativas en soluciones digitales robustas. Como Tecnólogo del SENA, combino una base técnica sólida en desarrollo Full Stack con un enfoque innovador en la integración de Inteligencia Artificial Generativa para la optimización de procesos.
 
- 🎓 Educación y Certificaciones Recientes (2025-2026)
-- Tecnólogo en Análisis y Desarrollo de Software | SENA (Finalizado Feb 2026).
-- Iniciación a la Inteligencia Artificial | SENA (Oct 2025).
-- Generación IA: el ABC de la Inteligencia Artificial Generativa | Microsoft & Eidos Global (Jul 2025).
-- Introduction to Artificial Intelligence-SDDE | IBM SkillsBuild (Jun 2025).
-- Introduction to Generative AI - Art of the Possible | AWS (Jun 2025).
-- Generative AI Essentials | IBM & Coursera (Abr 2025).
+🚀 Enfoque Actual: Desarrollo de aplicaciones escalables, automatización con agentes de IA (CrewAI/Ollama) y orquestación de servicios.
 
- 🛠️ Tecnologías y Habilidades
-- Desarrollo: Java, Gestión de Repositorios (Git/GitHub), Análisis de Requerimientos.
-- IA: Prompt Engineering, Fundamentos de IA Generativa.
-- Habilidades Profesionales: Resolución de problemas, trabajo colaborativo y atención proactiva.
+🛠️ Tecnologías y Habilidades
 
+Backend & Bases de Datos: Node.js (Express), Python (FastAPI), MySQL, Docker.
 
-📬 ¡Conectemos! 📧 felipejnoguera1978@gmail.com
+IA & Automatización: Prompt Engineering, Implementación de RAG, Agentes IA, Telemetría de sistemas.
+
+Desarrollo General: Java, Gestión de Repositorios (Git/GitHub), Análisis de Requerimientos.
+
+Habilidades Profesionales: Resolución de problemas complejos, metodologías de trabajo ágil, autonomía y aprendizaje continuo.
+
+🎓 Educación y Certificaciones
+
+Tecnólogo en Análisis y Desarrollo de Software | SENA (2026).
+
+Certificaciones Especializadas en IA: Microsoft & Eidos Global, IBM SkillsBuild, AWS y Coursera (2025).
+
+💼 ¿Buscas una solución o un colaborador? ¡Conectemos!
+
+📧 felipejnoguera1978@gmail.com

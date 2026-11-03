@@ -32,7 +32,8 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p>Aplicación web asistida por IA para la orientación culinaria y técnicas de cocción basadas en fotografías de cortes cárnicos. Diseñada, optimizada y desplegada en producción.</p>
       <p><b>Stack:</b> JavaScript, Node.js, Render, GenAI.</p>
       <p align="center">
-        <a href="https://asesor-de-carnes.onrender.com/recetas"><b>🌐 Ver App en Vivo</b></a>
+        <a href="https://asesor-de-carnes.onrender.com/recetas"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
+        <a href="https://youtu.be/QddaliuW_wM"><b>🎬 Demo YouTube</b></a>
       </p>
     </td>
     <td width="33%" valign="top">

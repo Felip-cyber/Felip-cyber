@@ -33,7 +33,8 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p><b>Stack:</b> JavaScript, Node.js, Render, GenAI.</p>
       <p align="center">
         <a href="https://asesor-de-carnes.onrender.com/recetas"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
-        <a href="https://youtu.be/QddaliuW_wM"><b>🎬 Demo YouTube</b></a>
+        <a href="https://youtu.be/QddaliuW_wM"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/Asesor-de-Carnes-Portfolio"><b>📁 Portafolio</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -42,7 +43,8 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p>Plataforma para planeación segura de rutas deportivas en Colombia. Evaluación meteorológica en vivo, cálculo de luz diurna y descarga de tracks GPX para navegación offline.</p>
       <p><b>Stack:</b> Node.js, Fastify, React, Vite, Open-Meteo, OpenStreetMap, Docker.</p>
       <p align="center">
-        <a href="https://nativa-platform.vercel.app"><b>🌐 Ver Plataforma en Vivo</b></a>
+        <a href="https://nativa-platform.vercel.app"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/Nativa-Platform-Portfolio"><b>📁 Portafolio</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -53,7 +55,7 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p align="center">
         <a href="https://agenda-car-center.onrender.com"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
         <a href="https://youtu.be/jZ5yYaSM71U"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Repositorio</b></a>
+        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Portafolio</b></a>
       </p>
     </td>
   </tr>

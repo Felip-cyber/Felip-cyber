@@ -40,7 +40,9 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p align="center"><b>Plataforma de Rutas Outdoor</b></p>
       <p>Plataforma para planeación segura de rutas deportivas en Colombia. Evaluación meteorológica en vivo, cálculo de luz diurna y descarga de tracks GPX para navegación offline.</p>
       <p><b>Stack:</b> Node.js, Fastify, React, Vite, Open-Meteo, OpenStreetMap, Docker.</p>
-      <p align="center"><i>En desarrollo activo (2026)</i></p>
+      <p align="center">
+        <a href="https://nativa-platform.vercel.app"><b>🌐 Ver Plataforma en Vivo</b></a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🚗 Agenda Car Center</h3>
@@ -48,7 +50,9 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p>Proyecto formativo productivo ADSO para agendamiento, control operativo y gestión comercial de centros de servicios automotrices.</p>
       <p><b>Stack:</b> Node.js, Express, React, Docker, Git/GitHub, Ollama.</p>
       <p align="center">
-        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Ver Repositorio</b></a>
+        <a href="https://agenda-car-center.onrender.com"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
+        <a href="https://youtu.be/jZ5yYaSM71U"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Repositorio</b></a>
       </p>
     </td>
   </tr>

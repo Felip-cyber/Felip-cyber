@@ -17,7 +17,7 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
 
 - 🔭 **Actualmente trabajando en:** [Nativa](#-proyectos-destacados) (Plataforma outdoor y seguridad de rutas en Colombia).
 - 🧠 **Especialización práctica:** Desarrollo Full Stack (React, Node.js, Fastify, Express), contenedores Docker y flujos de desarrollo asistidos por IA (Antigravity, Codex, Ollama, CrewAI).
-- 📍 **Ubicación:** Madrid, Cundinamarca (Disponible para Bogotá presencial/híbrido y trabajo remoto).
+- 📍 **Ubicación:** Madrid, Cundinamarca.
 - 💬 **Contacto directo:** [felipejnoguera1978@gmail.com](mailto:felipejnoguera1978@gmail.com) | (+57) 311 327 5086
 
 ---

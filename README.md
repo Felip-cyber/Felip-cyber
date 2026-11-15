@@ -15,7 +15,7 @@
 
 Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque en el desarrollo web moderno e integración estratégica de **Inteligencia Artificial** para optimizar tiempos de entrega, acelerar pruebas y depuración, y construir soluciones funcionales de alto impacto.
 
-- 🔭 **Actualmente trabajando en:** [Nativa](#-proyectos-destacados) (Plataforma outdoor y seguridad de rutas en Colombia).
+- 🔭 **Actualmente trabajando en:** [Nativa](#-proyectos-destacados) (Plataforma outdoor y seguridad en Colombia) y [Felipe Bike](https://github.com/Felip-cyber/alejos-bikes) (Sistema de gestión para talleres de bicicletas).
 - 🧠 **Especialización práctica:** Desarrollo Full Stack (React, Node.js, Fastify, Express), contenedores Docker y flujos de desarrollo asistidos por IA (Antigravity, Codex, Ollama, CrewAI).
 - 📍 **Ubicación:** Madrid, Cundinamarca.
 - 💬 **Contacto directo:** [felipejnoguera1978@gmail.com](mailto:felipejnoguera1978@gmail.com) | (+57) 311 327 5086
@@ -26,18 +26,30 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🥩 Asesor de Carnes IA</h3>
-      <p align="center"><b>Web App Funcional en Producción</b></p>
-      <p>Aplicación web asistida por IA para la orientación culinaria y técnicas de cocción basadas en fotografías de cortes cárnicos. Diseñada, optimizada y desplegada en producción.</p>
-      <p><b>Stack:</b> JavaScript, Node.js, Render, GenAI.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🚴 Felipe Bike</h3>
+      <p align="center"><b>Sistema de Gestión para Talleres de Bicicletas</b></p>
+      <p>Sistema empresarial para agendamiento transaccional atómico, trazabilidad de bicicletas por número de marco/serie (Ley 1801), control de caja con arqueo a ciegas, resumen DIAN gratuito y vitrina digital comercial.</p>
+      <p><b>Stack:</b> Node.js v24, Express, SQLite WAL, Vanilla JS ES6, CSS3 Mobile-First, Jest.</p>
       <p align="center">
-        <a href="https://asesor-de-carnes.onrender.com/recetas"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
-        <a href="https://youtu.be/QddaliuW_wM"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Felip-cyber/Asesor-de-Carnes-Portfolio"><b>📁 Portafolio</b></a>
+        <a href="https://github.com/Felip-cyber/alejos-bikes"><b>📁 Ver Repositorio</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/alejos-bikes/blob/auditoria/FB-01/README.md"><b>📖 Ficha Técnica & README</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Agenda Car Center</h3>
+      <p align="center"><b>Sistema de Gestión Automotriz</b></p>
+      <p>Proyecto formativo productivo ADSO para agendamiento, control operativo y gestión comercial de centros de servicios automotrices.</p>
+      <p><b>Stack:</b> Node.js, Express, React, Docker, Git/GitHub, Ollama.</p>
+      <p align="center">
+        <a href="https://agenda-car-center.onrender.com"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
+        <a href="https://youtu.be/jZ5yYaSM71U"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Portafolio</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🌲 Nativa</h3>
       <p align="center"><b>Plataforma de Rutas Outdoor</b></p>
       <p>Plataforma para planeación segura de rutas deportivas en Colombia. Evaluación meteorológica en vivo, cálculo de luz diurna y descarga de tracks GPX para navegación offline.</p>
@@ -47,15 +59,15 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
         <a href="https://github.com/Felip-cyber/Nativa-Platform-Portfolio"><b>📁 Portafolio</b></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🚗 Agenda Car Center</h3>
-      <p align="center"><b>Sistema de Gestión Automotriz</b></p>
-      <p>Proyecto formativo productivo ADSO para agendamiento, control operativo y gestión comercial de centros de servicios automotrices.</p>
-      <p><b>Stack:</b> Node.js, Express, React, Docker, Git/GitHub, Ollama.</p>
+    <td width="50%" valign="top">
+      <h3 align="center">🥩 Asesor de Carnes IA</h3>
+      <p align="center"><b>Web App Funcional en Producción</b></p>
+      <p>Aplicación web asistida por IA para la orientación culinaria y técnicas de cocción basadas en fotografías de cortes cárnicos. Diseñada, optimizada y desplegada en producción.</p>
+      <p><b>Stack:</b> JavaScript, Node.js, Render, GenAI.</p>
       <p align="center">
-        <a href="https://agenda-car-center.onrender.com"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
-        <a href="https://youtu.be/jZ5yYaSM71U"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Felip-cyber/Car-Center-Premium-Portfolio"><b>📁 Portafolio</b></a>
+        <a href="https://asesor-de-carnes.onrender.com/recetas"><b>🌐 Ver App en Vivo</b></a> &nbsp;|&nbsp;
+        <a href="https://youtu.be/QddaliuW_wM"><b>🎬 Demo YouTube</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/Felip-cyber/Asesor-de-Carnes-Portfolio"><b>📁 Portafolio</b></a>
       </p>
     </td>
   </tr>

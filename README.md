@@ -32,8 +32,7 @@ Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque e
       <p>Sistema empresarial para agendamiento transaccional atómico, trazabilidad de bicicletas por número de marco/serie (Ley 1801), control de caja con arqueo a ciegas, resumen DIAN gratuito y vitrina digital comercial.</p>
       <p><b>Stack:</b> Node.js v24, Express, SQLite WAL, Vanilla JS ES6, CSS3 Mobile-First, Jest.</p>
       <p align="center">
-        <a href="https://github.com/Felip-cyber/alejos-bikes"><b>📁 Ver Repositorio</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/Felip-cyber/alejos-bikes/blob/auditoria/FB-01/README.md"><b>📖 Ficha Técnica & README</b></a>
+        <b>🔒 Repositorio Privado Comercial</b> &nbsp;|&nbsp; <b>🛡️ Software Propietario</b>
       </p>
     </td>
     <td width="50%" valign="top">

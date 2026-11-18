@@ -15,7 +15,7 @@
 
 Tecnólogo en **Análisis y Desarrollo de Software (ADSO - SENA)** con enfoque en el desarrollo web moderno e integración estratégica de **Inteligencia Artificial** para optimizar tiempos de entrega, acelerar pruebas y depuración, y construir soluciones funcionales de alto impacto.
 
-- 🔭 **Actualmente trabajando en:** [Nativa](#-proyectos-destacados) (Plataforma outdoor y seguridad en Colombia) y [Felipe Bike](https://github.com/Felip-cyber/alejos-bikes) (Sistema de gestión para talleres de bicicletas).
+- 🔭 **Actualmente trabajando en:** [Nativa](#-proyectos-destacados) (Plataforma outdoor y seguridad en Colombia) y [Felipe Bike](https://github.com/Felip-cyber/felipe-bike) (Sistema de gestión para talleres de bicicletas).
 - 🧠 **Especialización práctica:** Desarrollo Full Stack (React, Node.js, Fastify, Express), contenedores Docker y flujos de desarrollo asistidos por IA (Antigravity, Codex, Ollama, CrewAI).
 - 📍 **Ubicación:** Madrid, Cundinamarca.
 - 💬 **Contacto directo:** [felipejnoguera1978@gmail.com](mailto:felipejnoguera1978@gmail.com) | (+57) 311 327 5086
